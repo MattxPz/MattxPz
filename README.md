@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
 
-I'm a **full-stack developer** with a particular interest in **data science**. I'm currently studying **Computer Engineering** at **Universidad Politécnica Salesiana (UPS)** in Cuenca, Ecuador.
+I'm a **full-stack developer** with a particular interest in **data science**. I'm currently studying **Computer Engineering** at **Universidad Politécnica Salesiana (UPS)** in Ecuador.
 
 ## Featured Projects
 
